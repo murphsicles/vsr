@@ -1,0 +1,8 @@
+[package]
+name = "@consensus/vsr"
+version = "0.1.0"
+description = "Viewstamped Replication consensus protocol — replica state machine, view change, prepare/commit"
+license = "MIT"
+repository = "https://github.com/murphsicles/vsr"
+keywords = ["vsr", "consensus", "replication"]
+categories = ["consensus", "distributed-systems"]
